@@ -1,2 +1,1 @@
-
-print("Hello " + input("What Is Your Name?"))+("Hello ")
+print(input("What is your name?"))
